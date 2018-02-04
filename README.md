@@ -1,3 +1,4 @@
 # hello-world
-a new respository
+hi
 learning and deverlopment
+are you ready
